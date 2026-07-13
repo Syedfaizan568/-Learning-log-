@@ -1,0 +1,3 @@
+git init
+git add script.py
+git commit -m "First code snippet on Android"
